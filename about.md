@@ -10,21 +10,21 @@ permalink: /about/
 
 ### More Information:
 
- *Graduated from HUS High School for Gifted Students (5/2017)
+ * *Graduated from HUS High School for Gifted Students (5/2017)*
  
- *Graduated from Ritsumeikan Asia Pacific University with the major of Culture, Society and Media (9/2021)*
+ * *Graduated from Ritsumeikan Asia Pacific University with the major of Culture, Society and Media (9/2021)*
  
- *JLPT N2 (2020)*
+ * *JLPT N2 (2020)*
  
- *TOEFL 90 (2017)*
+ * *TOEFL 90 (2017)*
  
- *TOEIC xx (2021)*
+ * *TOEIC xx (2021)*
  
- *Good at Microsoft Office (including with PowerPoint, Word, Excel, Outlook), SEO engines, Google Analytics*
+ * *Good at Microsoft Office (including with PowerPoint, Word, Excel, Outlook), SEO engines, Google Analytics*
  
- *Interested in designing media products (such as Poster, Cover, PPT Slides, Animation Video)*
+ * *Interested in designing media products (such as Poster, Cover, PPT Slides, Animation Video)*
  
- *Started researching in Cryptocurrency Investment since 2020*
+ * *Started researching in Cryptocurrency Investment since 2020*
 
 ### Contact me via:
 
