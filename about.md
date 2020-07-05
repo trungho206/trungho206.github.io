@@ -17,4 +17,4 @@ Some information about you!
 
 ### Contact me via
 
-[email@domain.com](mailto:trungho206@gmail.com)
+[trungho206@gmail.com](mailto:trungho206@gmail.com)
