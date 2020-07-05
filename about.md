@@ -8,7 +8,10 @@ permalink: /about/
 
 *Best wishes!*
 
-### More Information
+### More Information:
+
+ *Graduated from HUS High School for Gifted Students (5/2017)
+ 
  *Graduated from Ritsumeikan Asia Pacific University with the major of Culture, Society and Media (9/2021)*
  
  *JLPT N2 (2020)*
@@ -23,6 +26,6 @@ permalink: /about/
  
  *Started researching in Cryptocurrency Investment since 2020*
 
-### Contact me via
+### Contact me via:
 
 [trungho206@gmail.com](mailto:trungho206@gmail.com)
