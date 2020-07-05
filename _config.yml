@@ -9,7 +9,7 @@ name: Trung Ho
 description: Ritsumeikan Pacific Asia University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 86970584_204153197638145_6292523333732794368_n.jpg
+avatar: /images/AVATAR.jpg
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar: 86970584_204153197638145_6292523333732794368_n.jpg
 footer-links:
   dribbble:
   email: trungho206@gmail.com
-  facebook: https://www.facebook.com/profile.php?id=100041303971609
+  facebook: /profile.php?id=100041303971609
   flickr:
   github: 
   instagram:
